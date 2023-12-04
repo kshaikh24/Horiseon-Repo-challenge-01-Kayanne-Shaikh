@@ -1,7 +1,6 @@
 # challenge01
 Horiseon website for challenge 01
-# Your Project Title
-Horiseon - Accessibility code fixes
+# Horiseon - Accessibility code fixes
 ## Description 
 
 Horiseon's website needed to be made more accessible, so I was tasked to go through the code and make changes.
