@@ -39,6 +39,8 @@ Scroll up and down the page and click internal links in the nav bar.
 
 ## Credits
 
+Original source code: EDX Front end Bootcamp
+
 Tutorials followed: 
 
 Semantic tags: https://www.w3schools.com/html/html5_semantic_elements.asp
